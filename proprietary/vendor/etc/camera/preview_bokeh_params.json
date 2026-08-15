@@ -1,0 +1,157 @@
+{
+	"/": "Depth parameters",
+	"StructB": {
+		"paramA": 31,
+		"paramB": 31,
+		"paramC": 9,
+		"paramH": 30,
+		"StructHS": {
+			"paramE": -8,
+			"paramF": 32
+		},
+		"StructQS": {
+			"paramE": -4,
+			"paramF": 16
+		}
+	},
+  "StructC": {
+    "paramT": 1,
+    "paramD": 4,
+    "paramSX": 4,
+    "paramSY": 4,
+    "paramL0": 4,
+    "paramL1": 1,
+    "paramL2": 1,
+    "paramL3": 1,
+    "paramL4": 1,
+    "paramL": 48.0,
+    "paramF": 1
+  },
+  "StructI": {
+    "paramB": 1,
+    "paramU": 1,
+    "paramI": 0,
+    "paramW": 7,
+    "paramS": 5,
+    "paramR": 0.1,
+    "paramGT": 220,
+    "paramT": 128,
+    "paramBF": 0,
+    "paramWR": 0.19,
+    "paramAR": 0.05
+  },
+  "StructSC": {
+    "paramA": 1,
+    "paramL": 10.0,
+    "paramS": 200.0,
+    "paramR": 0.1
+  },
+  "StructCA": {
+   	"paramS": 1,
+	"paramSigma1": 0.50,
+	"paramSigma2": 0.33, 
+	"paramSigma3": 0.17
+  },
+	"StructP": {
+		"paramA": 3,
+		"paramC": 256,
+		"paramD": 12
+	},
+	"StructTC": {
+		"Struct_4_3":{
+			"paramH": 14,
+			"paramWS": 14,
+			"paramD":  14,
+			"paramL": 10
+		},
+		"Struct_16_9":{
+			"paramH": 14,
+			"paramWS": 14,
+			"paramD":  14,
+			"paramL": 10
+		},
+		"Struct_full":{
+			"paramH": 14,
+			"paramWS": 14,
+			"paramD":  14,
+			"paramL": 10
+		}
+	},
+	"///": "BokehEffect parameters",
+  "StructE": {
+	"paramUV":0,
+	"paramS":0,
+	"paramM": 0,
+	"paramM1": 0,
+	"paramD": 0,
+	"paramT1": 0.05,
+	"paramT2": 0.95,
+	"paramT3": 40,
+	"paramT4": 500,
+	"paramTF": 0.9,
+	"paramTC": 2,
+	"paramBGA": 1.5,
+	"paramFGA": 2.0,
+	"paramBR": 1.0
+  },
+  "StructB1":
+  {
+	"StructR1": 0.01,
+	"StructR2": 0.01,
+	"StructB":0.01,
+	"StructF":0.6,
+	"StructL1":2.0,
+	"StructL11":2.0,
+	"StructL2":1.0,
+	"StructBG":1.6,
+	"StructFG":1.5,
+	"StructBR": 2.0,
+	"StructCR":1.0,
+	"StructSR":6
+  },
+  "StructB2":
+  {
+	"StructR1": 0.01,
+	"StructR2": 0.01,
+	"StructB":0.001,
+	"StructF":10,
+	"StructL1":0.6,
+	"StructL2":0.5,
+	"StructBG":3.5,
+	"StructFG":1.5,
+	"StructBR": 1.0,
+	"StructCR":1.0,
+	"StructSR":2
+  },
+  "////": "sum control",
+  "StructS":{
+	"paramD": 0,
+	"paramH": 1,
+	"paramM": 1,
+	"paramS": 9,
+	"paramDR": 1,
+	"paramES": 1,
+	"paramDS": 1,
+	"paramSS": 0,
+	"paramMS": 1,
+	"StructH":{
+		"paramD1_4_3": 508,
+		"paramD1_16_9": 648,
+		"paramD1_20_9": 864,
+		"paramR_4_3": 508,
+		"paramR_16_9": 648,
+		"paramR_20_9": 864,
+		"paramBM":1,
+		"paramBF":1,
+		"paramG":1
+	},
+	"StructC":{
+		"paramD1_4_3": 508,
+		"paramD1_16_9": 648,
+		"paramD1_20_9": 864,
+		"paramR_4_3": 508,
+		"paramR_16_9": 648,
+		"paramR_20_9": 864
+	}
+  }
+}
